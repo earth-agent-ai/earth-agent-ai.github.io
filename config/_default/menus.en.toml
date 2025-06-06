@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+pre = "github"
+url = "https://github.com/wybert/earth-agent-chrome-ext"
+identifier = "k205Uqtxmi"
+weight = 9_999
+
+[[footer]]
+none = "none"

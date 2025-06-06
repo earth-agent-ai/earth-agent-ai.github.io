@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Earth Agent"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "icon128.png"
+secondaryLogo = "icon128.png"
+description = " An AI agent Chrome extension that make using Google Earthe Engine easier through chatting."
